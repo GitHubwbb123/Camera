@@ -1,4 +1,4 @@
-package com.example.helloworld;
+package com.wxb.camera;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

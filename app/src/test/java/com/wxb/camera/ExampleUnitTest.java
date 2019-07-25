@@ -1,4 +1,4 @@
-package com.example.helloworld;
+package com.wxb.camera;
 
 import org.junit.Test;
 
